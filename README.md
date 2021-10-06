@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-[Restaurant Reservation System](https://final-capstone-reservations-fe.herokuapp.com/dashboard "Restaurant Reservation System")
+[Restaurant Reservation System](https://powerful-anchorage-95459.herokuapp.com/dashboard "Restaurant Reservation System")
 
 ## Project Summary
 
